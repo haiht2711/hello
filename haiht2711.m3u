@@ -2,8 +2,8 @@
 
 #EXTINF:-1 group-title="Kênh gia đình" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="FILM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8g_ZslriQA5VxZnxEMGS66JUTGyJhrK2tYxIGjUn68DJ1c1JB", Tom & Jerry: Quậy tung New York
-https://www699.ff-02.com/token=IHpulgZlTrUEzVZSbH0c5A/1618083829/42.119.0.0/150/b/64/78c4292d5f68670a1b15e4e54e7d764b-1080p.mp4
+#EXTINF:-1 group-title="Kênh gia đình" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg", VTV2 HD
+https://livecdn.fptplay.net/hda1/vtv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="FILM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTagisnj5sR5hw6gvArBxAI8UROo8mpbbLBsICDrJebKFeBComA", Liên minh công lý phiên bản của Zack Snyder
 https://q14.wewon.to/a/m2/2021/Zack.Snyders.Justice.League.2021.mp4?valid=rZkZBM2XZ8vg-4WSr19JdQ&t=1618083926
 #EXTINF:-1 group-title="FILM" tvg-logo="https://static.wikia.nocookie.net/rayaandthelastdragon/images/c/c3/Raya_%26_The_Last_Dragon_Premier_%26_Theater_Poster.jpg/revision/latest?cb=20201210223211", Raya và rồng thần cuối cùng
