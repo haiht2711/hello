@@ -1,10 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Kênh gia đình" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg", VTV1 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Kênh gia đình" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg", VTV2 HD
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv2_15089873505.jpg", VTV2 HD
 https://livecdn.fptplay.net/hda1/vtv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="FILM" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTagisnj5sR5hw6gvArBxAI8UROo8mpbbLBsICDrJebKFeBComA", Liên minh công lý phiên bản của Zack Snyder
-https://q14.wewon.to/a/m2/2021/Zack.Snyders.Justice.League.2021.mp4?valid=rZkZBM2XZ8vg-4WSr19JdQ&t=1618083926
-#EXTINF:-1 group-title="FILM" tvg-logo="https://static.wikia.nocookie.net/rayaandthelastdragon/images/c/c3/Raya_%26_The_Last_Dragon_Premier_%26_Theater_Poster.jpg/revision/latest?cb=20201210223211", Raya và rồng thần cuối cùng
-https://q3.wewon.to/a/m2/2010/Raya.and.the.Last.Dragon.2010.mp4?valid=Qd6-6YSawwre0BH2nVZlNg&t=1618083993
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv3-hd_150173501764.jpg", VTV3 HD
+https://livecdn.fptplay.net/hda1/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv4_15089873636.jpg", VTV4 HD
+https://livecdn.fptplay.net/hda1/vtv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_150173503028.jpg", VTV5 HD
+https://web-livecdn.fptplay.net/hda2/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv6-hd_150173503925.jpg", VTV6 HD
+https://web-livecdn.fptplay.net/hda1/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv7-hd_158530348557.png", VTV7 HD
+https://livecdn.fptplay.net/hda3/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv8-hd_150173505324.jpg", VTV8 HD
+https://subs-livecdn.fptplay.net/hda2/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv9_150898738134.jpg", VTV9 HD
+https://livecdn.fptplay.net/hda2/vtv9_hls.smil/chunklist_b2500000.m3u8
+
+
+
+
+
