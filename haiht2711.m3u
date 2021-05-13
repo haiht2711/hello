@@ -138,6 +138,94 @@ https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda2/ttxvn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh Khác" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg", Truyền Hình Nhân Dân HD
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_an-giang_145578823421.png", An Giang
+https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg", Bà Rịa-Vũng Tàu HD
+https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-giang_15700007937.jpg", Bắc Giang HD
+https://livecdn.fptplay.net/sdc/bacgiang_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_156455519874.jpg", Bạc Liêu HD
+https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-ninh_156455524327.jpg", Bắc Ninh HD
+https://livecdn.fptplay.net/sdc/bacninh_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg", Bến Tre
+https://livecdn.fptplay.net/sdc/bentre_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-dinh_145672697062.jpg", Bình Định
+https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-1_156455530625.jpg", Bình Dương 1 HD
+https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-2_156455531275.jpg", Bình Dương 2 HD
+https://web-livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc_14588060598.jpg", Bình Phước 1
+https://livecdn.fptplay.net/sdc/binhphuoc1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-phuoc-2_145880693943.jpg", Bình Phước 2 - HOMEtv
+https://livecdn.fptplay.net/sdc/binhphuoc2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-thuan_145880841033.jpg", Bình Thuận
+https://livecdn.fptplay.net/sdc/binhthuan_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ca-mau_145880865141.jpg", Cà Mau HD
+https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_can-tho_145672728114.jpg", Cần Thơ
+https://livecdn.fptplay.net/sda/cantho_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cao-bang_149283044994.jpg", Cao Bằng
+https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-1_156455534553.jpg", Đà Nẵng 1 HD
+https://livecdn.fptplay.net/sdc/danang1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_da-nang-2_156455535103.jpg", Đà Nẵng 2 HD
+https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_145880969366.jpg", Đăk Lăk
+https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_156455538188.jpg", Điện Biên
+https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-1_156455544303.jpg", Đồng Nai 1 HD
+https://livecdn.fptplay.net/sda/dongnai1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_156455545067.jpg", Đồng Nai 2 HD
+https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_145880869744.jpg", Đồng Tháp
+https://livecdn.fptplay.net/sdc/dongthap_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_145673242156.jpg", Gia Lai
+https://livecdn.fptplay.net/sda/gialai_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_145578965891.png", Hà Giang
+https://livecdn.fptplay.net/sda/hagiang_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_15323304952.jpg", Hà Nam
+https://livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-1_145672747757.jpg", Hà Nội 1
+https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hanoitv-2_145672748742.jpg", Hà Nội 2
+https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
