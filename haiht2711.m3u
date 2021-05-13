@@ -114,6 +114,35 @@ https://livecdn.fptplay.net/hda1/vtc13_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda1/vtc14_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="VTC" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png", VTC16 HD
 https://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc16_158549798865.png", iMovie HD
+https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv6_158573005113.png", BTV6
+https://livecdn.fptplay.net/sda/btv6_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv9_159662306193.jpg", BTV9
+https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv-11_158459383676.png", BTV11
+https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ncm_145578899016.png", NCM
+https://livecdn.fptplay.net/sda/ncm_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Khác" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fbnc_145672745919.jpg", FBNC HD
+https://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Khác" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vovtv_161070256824.jpg", VOVTV
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Khác" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_145578230854.png", Quốc Hội HD
+https://livecdn.fptplay.net/hda1/quochoivn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Khác" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_145673312681.jpg", Quốc Phòng VN HD
+https://livecdn.fptplay.net/hda1/quocphongvnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Khác" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_156455515067.jpg", ANTV HD
+https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Khác" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_145673307906.jpg", Thông Tấn Xã Việt Nam HD
+https://livecdn.fptplay.net/hda2/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Khác" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_15645602611.jpg", Truyền Hình Nhân Dân HD
+https://livecdn.fptplay.net/sdc/truyenhinhnhandan_2000.stream/chunklist.m3u8
+
+
+
+
+
 
 
 
