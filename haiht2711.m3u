@@ -48,6 +48,32 @@ https://livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u
 https://livecdn.fptplay.net/hda/htvcthuanviet_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_156455550438.jpg", HTV Thể thao
 https://livecdn.fptplay.net/sdb/htvcthethao_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_145931294803.jpg", KBS World
+https://livecdn.fptplay.net/sdb/kbs_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_150614115837.png", NHK World HD
+https://livecdn.fptplay.net/hda2/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_145681789801.jpg", DW HD
+https://livecdn.fptplay.net/hda2/dwenglish_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_arirang_15148903242.png", Arirang
+https://livecdn.fptplay.net/world/arirang_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_151495143843.png", Channel NewsAsia
+https://livecdn.fptplay.net/world/newsasia_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_151539541517.png", France 24
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="International" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_151557279144.png", TV5 Monde
+https://livecdn.fptplay.net/world/tv5_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh FOX" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-movies_152238665778.png", FOX Movies HD
+https://livecdn.fptplay.net/hda1/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh FOX" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-family-movies_155013312413.jpg", FOX Family Movies HD
+https://livecdn.fptplay.net/hda2/foxfamilymovies_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="Kênh FOX" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-life_152238683897.png", FOX Life HD
+https://livecdn.fptplay.net/hda1/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh FOX" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_fox-hd_152238767588.png", FOX HD
+https://livecdn.fptplay.net/hda2/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh FOX" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-v-hd_152238787152.png", Channel V HD
+https://livecdn.fptplay.net/hda1/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh FOX" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_156455553777.jpg", National Geographic HD
+https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 
 
