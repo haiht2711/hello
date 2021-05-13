@@ -22,6 +22,37 @@ https://livecdn.fptplay.net/hda2/vtv9_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda3/htv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv2_145672764721.jpg", HTV2
 https://livecdn.fptplay.net/hda1/htv2hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg", HTV3
+https://livecdn.fptplay.net/hda3/htv3_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv4_145672776087.jpg", HTV4
+https://livecdn.fptplay.net/hda3/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv7-hd_150225274372.jpg", HTV7 HD
+https://livecdn.fptplay.net/hda1/htv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv9-hd_146841310555.jpg", HTV9 HD
+https://livecdn.fptplay.net/hda1/htv9hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_paramount-channel-vietnam_153613137177.png", HTVC Phim HD
+https://livecdn.fptplay.net/hda2/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-du-lich_150055164332.jpg", HTVC Du Lịch
+https://livecdn.fptplay.net/hda/htvcdulich_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-gia-dinh_156420342184.jpg", HTVC Gia Đình
+https://livecdn.fptplay.net/hda/htvcgiadinh_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-phu-nu_150055168062.jpg", HTVC Phụ Nữ
+https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-plus_159175078181.png", HTVC Plus
+https://livecdn.fptplay.net/hda3/htvcplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-ca-nhac_159175079096.png", HTVC Ca nhạc
+https://livecdn.fptplay.net/sdb/htvcmusic_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-hd_150055170596.jpg", HTVC Thuần Việt HD
+https://livecdn.fptplay.net/hda1/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-thuan-viet-sd_150055171588.jpg", HTVC Thuần Việt
+https://livecdn.fptplay.net/hda/htvcthuanviet_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htvc-the-thao_156455550438.jpg", HTV Thể thao
+https://livecdn.fptplay.net/sdb/htvcthethao_2000.stream/chunklist.m3u8
+
+
+
+
+
 
 
 
