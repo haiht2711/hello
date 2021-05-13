@@ -74,6 +74,14 @@ https://livecdn.fptplay.net/hda2/foxhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda1/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Kênh FOX" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_national-geographic-hd_156455553777.jpg", National Geographic HD
 https://livecdn.fptplay.net/hda2/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_156455587276.jpg", Vĩnh Long 1 HD
+https://livecdn.fptplay.net/hda1/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg", Vĩnh Long 2 HD
+https://livecdn.fptplay.net/sdb/vinhlong2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_156455588941.jpg", Vĩnh Long 3 HD
+https://livecdn.fptplay.net/hda/vinhlong3_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Kênh Địa Phương" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_158382617523.png", Vĩnh Long 4 HD
+https://livecdn.fptplay.net/hda/vinhlong4hd_2000.stream/chunklist.m3u8
 
 
 
