@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://download1509.mediafire.com/v7uuhjfke9pg/oqwhuuvsiqohbla/TV.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://download1582.mediafire.com/iqu64fqpe9yg/29i817i5bqzewu4/television.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
