@@ -1,17 +1,3 @@
-#EXTM3U url-tvg="http://gg.gg/epgvn00" refresh="3600" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0 
-#EXTM3U url-tvg="http://gg.gg/epgchungxda" tvg-shift=0 m3uautoload=2
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=3
-#EXTM3U url-tvg="http://www.vietcago.net/live/xmltv.xml" tvg-shift=0 m3uautoload=4
-#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=5
-#EXTM3U url-tvg="http://gg.gg/fptepg" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgchungxda" tvg-shift=0 m3uautoload=1 url="https://chungxda.github.io/ChungXDA.m3u"
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=2 url="https://chungxda.github.io/ChungXDA.m3u"
-#EXTM3U url-tvg="http://www.vietcago.net/live/xmltv.xml" tvg-shift=0 m3uautoload=3 url="https://chungxda.github.io/ChungXDA.m3u"
-#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=4 url="https://chungxda.github.io/ChungXDA.m3u"
-#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1 
-#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://gg.gg/Iichphatsongiptv" tvg-shift=0 m3uautoload=1
 
 
