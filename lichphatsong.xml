@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
   <channels>
-    <channel update="i" site="fptplay.vn" site_id="vtv1hd" xmltv_id="VTV1 HD">VTV1 HD</channel>
-    <channel update="i" site="fptplay.vn" site_id="vtv2hd" xmltv_id="VTV2 HD">VTV2 HD</channel>
-    <channel update="i" site="fptplay.vn" site_id="vtv3hd" xmltv_id="VTV3 HD">VTV3 HD</channel>
+    <channel update="i" site="https://fptplay.vn/xem-truyen-hinh/vtv1-hd" site_id="vtv1hd" xmltv_id="VTV1 HD">VTV1 HD</channel>
+    <channel update="i" site="https://fptplay.vn/xem-truyen-hinh/vtv2-hd" site_id="vtv2hd" xmltv_id="VTV2 HD">VTV2 HD</channel>
+    <channel update="i" site="https://fptplay.vn/xem-truyen-hinh/vtv3-hd" site_id="vtv3hd" xmltv_id="VTV3 HD">VTV3 HD</channel>
   </channels>
 </site>
