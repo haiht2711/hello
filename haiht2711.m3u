@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Vietnam/htv.com.vn.channels.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Vietnam/tv.vietbao.vn.channels.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Vietnam/ftpplay.net.channels.xml" tvg-shift=0 m3uautoload=1
-
+#EXTM3U url-tvg="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Vietnam/mytv.com.vn.channels.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg", VTV1 HD
 https://livecdn.fptplay.net/hda1/vtv1hd_hls.smil/chunklist_b2500000.m3u8
